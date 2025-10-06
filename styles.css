@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+header {
+    background-image: url('hero_shoe.jpg');
+    background-size: cover;
+    background-position: center;
+}
+h2 {
+    font-weight: bold;
+    color: #000;
+}
+.btn {
+    border-radius: 0;
+}
+footer {
+    font-size: 0.9rem;
+}
